@@ -6,16 +6,17 @@
   <name>rqt_robot_dashboard</name>
   <version>0.5.8</version>
   <description>rqt_robot_dashboard provides an infrastructure for building robot dashboard plugins in rqt.</description>
-  <maintainer email="ablasdel@gmail.com">Aaron Blasdel</maintainer>
+
   <maintainer email="arne.hitzmann@gmail.com">Arne Hitzmann</maintainer>
+
+  <author>Ze'ev Klapow</author>
+  <author email="ablasdel@gmail.com">Aaron Blasdel</author>
 
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/rqt_robot_dashboard</url>
   <url type="repository">https://github.com/ros-visualization/rqt_robot_dashboard</url>
   <url type="bugtracker">https://github.com/ros-visualization/rqt_robot_dashboard/issues</url>
-
-  <author>Ze'ev Klapow</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
